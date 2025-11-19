@@ -1,4 +1,3 @@
-# Credit-Risk-Prediction
 # 🏦 Credit Risk Prediction – Machine Learning Project
 
 Predicting whether a customer will default on their loan within the next 2 years using Kaggle's **Give Me Some Credit** dataset.
